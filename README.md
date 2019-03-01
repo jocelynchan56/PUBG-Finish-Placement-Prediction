@@ -1,0 +1,2 @@
+# PUBG-Finish-Placement-Prediction
+I applied XGBoost ML algorithm to predict the winning percentage. Besides, I compared with different models among classification, regressor tree and linear regression, which shows us that linear regression XGBoost model has the lower RMSE. At last, I tuned the linear regression model by using grid search to test out different combinations of the hyper parameters. 
